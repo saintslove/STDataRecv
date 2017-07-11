@@ -1,0 +1,2 @@
+nohup /home/xbpeng/ST_data_receive/DataRecvModule_ST.py > ST_screen.log 2>&1 &
+192.168.12.22：20000 
